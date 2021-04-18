@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "clear":"ปล่อยวาง",
+    "clearColor":"999999",
+    "clearDetail":"ปล่อยวางปล่อยวางปล่อยวาง",
+    "clearType":"",
+    "url": "https://di4y0jq908exx.cloudfront.net/soundnew/010201.mp3",
+    "title": "ลองหัดปล่อยวาง",
+    "artist": "ง่ายแต่ลึก",
+    "artwork": "https://sv1.picz.in.th/images/2020/06/04/qlSlZb.png",
+    "description":"ปล่อยวางปล่อยวางปล่อยวาง"
+  },
+  {
+    "id": 2,
+    "clear":"แผ่เมตตา",
+    "clearColor":"999999",
+    "clearDetail":"แผ่ความสุขสู่ทุก ๆ คนบนโลก",
+    "clearType":"",
+    "url": "https://di4y0jq908exx.cloudfront.net/soundnew/040101.mp3",
+    "title": "แผ่เมตตาสู่สัตว์โลก",
+    "artist": "ง่ายแต่ลึก",
+    "artwork": "https://sv1.picz.in.th/images/2020/06/04/qlSlZb.png",
+    "description":"แผ่ความสุขสู่ทุก ๆ คนบนโลก"
+  },
+  {
+    "id": 3,
+    "clear":"มองโลกตามความเป็นจริง",
+    "clearColor":"999999",
+    "clearDetail":"มองโลกตามความเป็นจริง แล้วคลายความผูกพัน",
+    "clearType":"",
+    "url": "https://di4y0jq908exx.cloudfront.net/soundnew/010204.mp3",
+    "title": "ทำตัวเหมือนอยู่คนเดียวบนโลก",
+    "artist": "ง่ายแต่ลึก",
+    "artwork": "https://sv1.picz.in.th/images/2020/06/04/qlSlZb.png",
+    "description":"มองโลกตามความเป็นจริง แล้วคลายความผูกพัน"
+  },
+  {
+    "id": 4,
+    "clear":"ทุกสิ่งไม่เที่ยง",
+    "clearColor":"999999",
+    "clearDetail":"โลกนี้ไม่เที่ยง เป็นทุกข์",
+    "clearType":"",
+    "url": "https://di4y0jq908exx.cloudfront.net/soundnew/040701.mp3",
+    "title": "ธรรมะจะอยู่เคียงข้างเราตลอดไป",
+    "artist": "ง่ายแต่ลึก",
+    "artwork": "https://sv1.picz.in.th/images/2020/06/04/qlSlZb.png",
+    "description":"โลกนี้ไม่เที่ยง เป็นทุกข์"
+  },
+  {
+    "id": 5,
+    "clear":"มันไม่ใช่ของเรา",
+    "clearColor":"999999",
+    "clearDetail":"ทุกสิ่งทุกอย่างไม่ใช่ของเราเดี๋ยวก็มาเดี๋ยวก็ไป",
+    "clearType":"",
+    "url": "https://di4y0jq908exx.cloudfront.net/soundnew/040702.mp3",
+    "title": "อยู่กับศูนย์กลางกายแล้ว ไม่เหงาไม่เหนื่อย",
+    "artist": "ง่ายแต่ลึก",
+    "artwork": "https://sv1.picz.in.th/images/2020/06/04/qlSlZb.png",
+    "description":"ทุกสิ่งทุกอย่างไม่ใช่ของเราเดี๋ยวก็มาเดี๋ยวก็ไป"
+  },
+  {
+    "id": 6,
+    "clear":"เพื่อนมนุษย์",
+    "clearColor":"999999",
+    "clearDetail":"ทุกคนล้วนเป็นเพื่อนมนุษย์เหมือนกัน",
+    "clearType":"",
+    "url": "https://di4y0jq908exx.cloudfront.net/sound/dhamma/36DHAMMA.mp3",
+    "title": "แก้ฟุ้ง แก้ตึง",
+    "artist": "ง่ายแต่ลึก",
+    "artwork": "https://sv1.picz.in.th/images/2020/06/04/qlSlZb.png",
+    "description":"ทุกคนล้วนเป็นเพื่อนมนุษย์เหมือนกัน"
+  },
+  {
+    "id": 7,
+    "clear":"หยุดคิด",
+    "clearColor":"999999",
+    "clearDetail":"หยุดคิด หยุดทุกอย่างเสีย",
+    "clearType":"",
+    "url": "https://di4y0jq908exx.cloudfront.net/soundnew/040202.mp3",
+    "title": "ไม่ต้องใช้ความคิดหยุดอย่างเดียว",
+    "artist": "ง่ายแต่ลึก",
+    "artwork": "https://sv1.picz.in.th/images/2020/06/04/qlSlZb.png",
+    "description":"หยุดคิด หยุดทุกอย่างเสีย"
+  }
+]
+ 

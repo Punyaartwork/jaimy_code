@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "685225319072",
+    "project_id": "jaimy-c0072",
+    "storage_bucket": "jaimy-c0072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685225319072:android:82e24614a96c5f840607c5",
+        "android_client_info": {
+          "package_name": "com.jaimy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685225319072-no0cs5dkphmpg4vnrt88eulq9uf79t73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkpBBxjfDB6bg9waurGGusAxIqf5je6Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685225319072-no0cs5dkphmpg4vnrt88eulq9uf79t73.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685225319072-h9cme796lpe5t8mjc7hcg3evpltpcs13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.JaiMy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
